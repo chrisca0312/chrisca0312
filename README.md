@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @chrisca0312
 - 👀 I’m interested in WebDevelopment
 - 🌱 I’m currently learning The WebDeveloper Bootcamp 2021 by Colt Steel
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on html, css, and javascript projects
+- 📫 Reach me here in my github profile
 
 <!---
 chrisca0312/chrisca0312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
